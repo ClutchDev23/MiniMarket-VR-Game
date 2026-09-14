@@ -43,6 +43,6 @@
 
 ### Clonar y abrir
 ```bash
-git clone https://github.com/ClutchDev23/MiniMarket-Game.git
-cd MiniMarket-Game
+git clone https://github.com/ClutchDev23/MiniMarket-VR-Game.git
+cd MiniMarket-VR-Game
 # Abre con Unity Hub → Add project → selecciona esta carpeta
